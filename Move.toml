@@ -8,3 +8,4 @@ MoveStdlib = { local = "./move-stdlib" }
 
 [addresses]
 std =  "0x1"
+MyCoinAddr = "0xf"

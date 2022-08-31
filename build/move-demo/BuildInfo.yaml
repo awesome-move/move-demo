@@ -1,0 +1,23 @@
+---
+compiled_package_info:
+  package_name: move-demo
+  address_alias_instantiation:
+    Extensions: "00000000000000000000000000000001"
+    MyCoinAddr: 0000000000000000000000000000000f
+    aptos_framework: "00000000000000000000000000000001"
+    aptos_std: "00000000000000000000000000000001"
+    std: "00000000000000000000000000000001"
+  source_digest: 6F10C848E345758237F54CCD0E1BBE037831E978D2A9081F2C3FEAEEAED6CC35
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+dependencies:
+  - AptosStdlib
+  - MoveStdlib
